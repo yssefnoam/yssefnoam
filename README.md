@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 42 Cursus
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ynoam-hadj?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ynoam?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 ## Porjects done so far:
 
