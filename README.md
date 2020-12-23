@@ -7,7 +7,7 @@
 - 📫 How to reach me: ynoam@student.1337.ma
 # 42 Cursus
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ynoam?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ynoam?cursus=42_cursus)](https://github.com/JaeSeoKim/badge42)
 
 Project | Description | Score |  Type |
 ------------ | ------------- | ------------- | -------------
