@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning in https://1337.ma/en
 - 💻 Expertises with C language and Unix system
 - 💬 Ask me about [n]vim
-- 📫 How to reach me: ynoam@student.1337.ma
+- 📫 How to reach me: 2020noam@gmail.com
 # 42 Cursus
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ynoam?cursus=42_cursus)](https://github.com/JaeSeoKim/badge42)
