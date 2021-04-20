@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ft_sevices
+- 🔭 I’m currently working on minishell
 - 🌱 I’m currently learning in https://1337.ma/en
 - 💻 Expertises with C language and Unix system
 - 💬 Ask me about [n]vim
