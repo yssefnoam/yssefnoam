@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cpp
+- 🔭 I’m currently working on ft_containers
 - 🌱 I’m currently learning in https://1337.ma/en
-- 💻 Expertises with C language and Unix system
+- 💻 Expertises with C and C++ language and Unix system
 - 💬 Ask me about [n]vim
 - 📫 How to reach me: 2020noam@gmail.com
 # 42 Cursus
