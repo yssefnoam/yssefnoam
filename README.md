@@ -7,7 +7,7 @@
 - 📫 How to reach me: 2020noam@gmail.com
 # 42 Cursus
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ynoam?cursus=42_cursus)](https://github.com/JaeSeoKim/badge42)
+[![ynoam's 42 stats](https://badge.mediaplus.ma/darkblue/ynoam)](https://github.com/oakoudad/badge42)
 
 Project | Description | Score |  Type |
 ------------ | ------------- | ------------- | -------------
