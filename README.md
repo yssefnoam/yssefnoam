@@ -22,3 +22,4 @@ Project | Description |  Type |
 [**minishell**](https://github.com/amg-1337bg/minishell_with_Ynoam) | write a minishell like bash with pipes & redirections and env . with my friend [brahim](https://github.com/amg-1337bg) | C Language & bash
 [**philosophers**](https://github.com/amg-1337bg/minishell_with_Ynoam) | solving the dining philosophers problem. | threads
 [**CPP**](https://github.com/yssefnoam/Cpp) | This project is to code with cpp 😅 | C++
+[**WebServer**](https://github.com/elhadjaoui/WebServer) | A simple Web server with c++, inspired from nginx| C++
