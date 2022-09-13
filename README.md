@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ft_containers
+- 🔭 I’m currently working on ft_transcendence
 - 🌱 I’m currently learning in https://1337.ma/en
 - 💻 Expertises with C and C++ language and Unix system
 - 💬 Ask me about vim
