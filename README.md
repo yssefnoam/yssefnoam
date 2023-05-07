@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ft_transcendence
 - 🌱 I’m currently learning in https://1337.ma/en
-- 💻 Expertises with C and C++ language and Unix system
+- 💻 Expertises with C and C++ language and *nix system
 - 💬 Ask me about vim
 - 📫 How to reach me: 2020noam@gmail.com
 # 42 Cursus
