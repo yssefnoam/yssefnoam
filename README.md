@@ -6,7 +6,8 @@
 - 📫 How to reach me: 2020noam@gmail.com
 # 42 Cursus
 
-[![ynoam's 42 stats](https://badge.mediaplus.ma/darkblue/ynoam)](https://github.com/oakoudad/badge42)
+![ynoam's 42 stats](https://badge.mediaplus.ma/darkblue/ynoam)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yssefnoam&count_private=true&show_icons=true\&theme=dracula)
 
 Project | Description |  Type |
 ------------ | ------------- | -------------
