@@ -19,11 +19,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-### 42 Cursus
 
-![ynoam's 42 stats](https://badge.mediaplus.ma/darkblue/ynoam)
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yssefnoam&count_private=true&show_icons=true\&theme=dracula)
-
+### 42 Cursus
 Project | Description |  Type |
 ------------ | ------------- | -------------
 [**Libft**](https://github.com/yssefnoam/42_cursus/tree/master/libft) | The aim of this project is to code a C library usual functions. | C Language
